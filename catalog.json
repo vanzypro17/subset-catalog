@@ -4,7 +4,7 @@
   "name": "Netflix",
   "category": "Video",
   "color": "#E50914",
-  "asOf": "2025-08",
+  "asOf": "2026-06",
   "keywords": [
    "dizi",
    "film"
@@ -12,19 +12,19 @@
   "plans": [
    {
     "name": "Temel",
-    "price": 229.99,
+    "price": 189.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Standart",
-    "price": 349.99,
+    "price": 289.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Özel",
-    "price": 499.99,
+    "price": 379.99,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -42,23 +42,23 @@
   "name": "Disney+",
   "category": "Video",
   "color": "#113CCF",
-  "asOf": "2025-08",
+  "asOf": "2026-02",
   "keywords": [
    "marvel",
    "star wars"
   ],
   "plans": [
    {
-    "name": "Standart",
-    "price": 164.9,
+    "name": "Reklamlı",
+    "price": 249.9,
     "currency": "TRY",
     "period": "monthly"
    },
    {
-    "name": "Standart Yıllık",
-    "price": 1649.9,
+    "name": "Reklamsız",
+    "price": 449.9,
     "currency": "TRY",
-    "period": "yearly"
+    "period": "monthly"
    }
   ],
   "cancelUrl": "https://www.disneyplus.com/account",
@@ -73,7 +73,7 @@
   "name": "Amazon Prime Video",
   "category": "Video",
   "color": "#00A8E1",
-  "asOf": "2025-08",
+  "asOf": "2026-06",
   "keywords": [
    "amazon",
    "prime"
@@ -82,6 +82,12 @@
    {
     "name": "Prime",
     "price": 69.9,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Prime + reklamsız video",
+    "price": 129.8,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -98,7 +104,7 @@
   "name": "Max (HBO)",
   "category": "Video",
   "color": "#002BE7",
-  "asOf": "2025-08",
+  "asOf": "2026-09",
   "keywords": [
    "hbo",
    "blutv",
@@ -107,9 +113,27 @@
   "plans": [
    {
     "name": "Standart",
-    "price": 199.9,
+    "price": 229.9,
     "currency": "TRY",
     "period": "monthly"
+   },
+   {
+    "name": "Standart Yıllık",
+    "price": 2299,
+    "currency": "TRY",
+    "period": "yearly"
+   },
+   {
+    "name": "Özel",
+    "price": 299.9,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Özel Yıllık",
+    "price": 2999,
+    "currency": "TRY",
+    "period": "yearly"
    }
   ],
   "cancelUrl": "https://www.max.com/tr",
@@ -269,7 +293,7 @@
   "name": "YouTube Premium",
   "category": "Video",
   "color": "#FF0000",
-  "asOf": "2025-08",
+  "asOf": "2026-06",
   "keywords": [
    "google",
    "müzik",
@@ -278,19 +302,25 @@
   "plans": [
    {
     "name": "Bireysel",
-    "price": 99.99,
+    "price": 119.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Aile",
-    "price": 179.99,
+    "price": 239.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Öğrenci",
-    "price": 59.99,
+    "price": 79.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Premium Lite",
+    "price": 79.99,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -307,7 +337,7 @@
   "name": "Spotify",
   "category": "Müzik",
   "color": "#1DB954",
-  "asOf": "2025-08",
+  "asOf": "2026-09",
   "keywords": [
    "müzik",
    "podcast"
@@ -315,25 +345,25 @@
   "plans": [
    {
     "name": "Bireysel",
-    "price": 129.99,
+    "price": 99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Duo",
-    "price": 169.99,
+    "price": 135,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Aile",
-    "price": 199.99,
+    "price": 165,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Öğrenci",
-    "price": 64.99,
+    "price": 55,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -350,7 +380,7 @@
   "name": "Apple Music",
   "category": "Müzik",
   "color": "#FC3C44",
-  "asOf": "2025-08",
+  "asOf": "2026-09",
   "keywords": [
    "apple",
    "müzik"
@@ -358,19 +388,19 @@
   "plans": [
    {
     "name": "Bireysel",
-    "price": 79.99,
+    "price": 89.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Aile",
-    "price": 129.99,
+    "price": 149.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Öğrenci",
-    "price": 39.99,
+    "price": 49.99,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -410,7 +440,7 @@
   "name": "Xbox Game Pass",
   "category": "Oyun",
   "color": "#107C10",
-  "asOf": "2025-08",
+  "asOf": "2026-04",
   "keywords": [
    "xbox",
    "microsoft",
@@ -418,14 +448,26 @@
   ],
   "plans": [
    {
+    "name": "Essential",
+    "price": 269,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Premium",
+    "price": 409,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
     "name": "PC Game Pass",
-    "price": 259.0,
+    "price": 419,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Ultimate",
-    "price": 479.0,
+    "price": 529,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -441,7 +483,7 @@
   "name": "PlayStation Plus",
   "category": "Oyun",
   "color": "#0070D1",
-  "asOf": "2025-08",
+  "asOf": "2026-05",
   "keywords": [
    "sony",
    "ps5",
@@ -450,19 +492,31 @@
   "plans": [
    {
     "name": "Essential Aylık",
-    "price": 349.0,
+    "price": 400,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "Essential Yıllık",
-    "price": 2699.0,
+    "price": 2890,
     "currency": "TRY",
     "period": "yearly"
    },
    {
+    "name": "Extra Aylık",
+    "price": 600,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
     "name": "Extra Yıllık",
-    "price": 4399.0,
+    "price": 4810,
+    "currency": "TRY",
+    "period": "yearly"
+   },
+   {
+    "name": "Deluxe Yıllık",
+    "price": 5560,
     "currency": "TRY",
     "period": "yearly"
    }
@@ -585,20 +639,14 @@
   "name": "Canva Pro",
   "category": "Yazılım & AI",
   "color": "#00C4CC",
-  "asOf": "2025-08",
+  "asOf": "2026-09",
   "keywords": [
    "tasarım"
   ],
   "plans": [
    {
-    "name": "Pro Aylık",
-    "price": 299.99,
-    "currency": "TRY",
-    "period": "monthly"
-   },
-   {
     "name": "Pro Yıllık",
-    "price": 2699.99,
+    "price": 1920,
     "currency": "TRY",
     "period": "yearly"
    }
@@ -676,7 +724,7 @@
   "name": "iCloud+",
   "category": "Bulut",
   "color": "#3693F3",
-  "asOf": "2025-08",
+  "asOf": "2026-09",
   "keywords": [
    "apple",
    "yedek",
@@ -685,19 +733,19 @@
   "plans": [
    {
     "name": "50 GB",
-    "price": 19.99,
+    "price": 39.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "200 GB",
-    "price": 59.99,
+    "price": 129.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
     "name": "2 TB",
-    "price": 199.99,
+    "price": 399.99,
     "currency": "TRY",
     "period": "monthly"
    }
@@ -714,7 +762,7 @@
   "name": "Google One",
   "category": "Bulut",
   "color": "#4285F4",
-  "asOf": "2025-08",
+  "asOf": "2026-09",
   "keywords": [
    "google",
    "drive",
@@ -724,19 +772,19 @@
   "plans": [
    {
     "name": "100 GB",
-    "price": 29.99,
+    "price": 84.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
-    "name": "2 TB",
-    "price": 149.99,
+    "name": "AI Plus 2 TB",
+    "price": 359.99,
     "currency": "TRY",
     "period": "monthly"
    },
    {
-    "name": "AI Premium 2 TB",
-    "price": 399.99,
+    "name": "AI Pro 5 TB",
+    "price": 869.99,
     "currency": "TRY",
     "period": "monthly"
    }
