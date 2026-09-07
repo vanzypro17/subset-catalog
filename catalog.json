@@ -1,0 +1,1070 @@
+[
+ {
+  "id": "netflix",
+  "name": "Netflix",
+  "category": "Video",
+  "color": "#E50914",
+  "asOf": "2025-08",
+  "keywords": [
+   "dizi",
+   "film"
+  ],
+  "plans": [
+   {
+    "name": "Temel",
+    "price": 229.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Standart",
+    "price": 349.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Özel",
+    "price": 499.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.netflix.com/cancelplan",
+  "cancelSteps": [
+   "netflix.com'a giriş yap",
+   "Hesap > Üyeliği iptal et",
+   "Dönem sonuna kadar izlemeye devam edersin"
+  ],
+  "logo": "netflix"
+ },
+ {
+  "id": "disney",
+  "name": "Disney+",
+  "category": "Video",
+  "color": "#113CCF",
+  "asOf": "2025-08",
+  "keywords": [
+   "marvel",
+   "star wars"
+  ],
+  "plans": [
+   {
+    "name": "Standart",
+    "price": 164.9,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Standart Yıllık",
+    "price": 1649.9,
+    "currency": "TRY",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://www.disneyplus.com/account",
+  "cancelSteps": [
+   "disneyplus.com > Hesap",
+   "Abonelik > Aboneliği iptal et",
+   "App Store/Google Play'den aldıysan mağazadan iptal et"
+  ]
+ },
+ {
+  "id": "prime",
+  "name": "Amazon Prime Video",
+  "category": "Video",
+  "color": "#00A8E1",
+  "asOf": "2025-08",
+  "keywords": [
+   "amazon",
+   "prime"
+  ],
+  "plans": [
+   {
+    "name": "Prime",
+    "price": 69.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.amazon.com.tr/mc",
+  "cancelSteps": [
+   "amazon.com.tr > Hesabım > Prime Üyeliği",
+   "Üyeliği sonlandır",
+   "Onayla"
+  ]
+ },
+ {
+  "id": "max",
+  "name": "Max (HBO)",
+  "category": "Video",
+  "color": "#002BE7",
+  "asOf": "2025-08",
+  "keywords": [
+   "hbo",
+   "blutv",
+   "blu tv"
+  ],
+  "plans": [
+   {
+    "name": "Standart",
+    "price": 199.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.max.com/tr",
+  "cancelSteps": [
+   "max.com > Profil > Abonelik",
+   "Aboneliği iptal et"
+  ],
+  "logo": "hbo"
+ },
+ {
+  "id": "exxen",
+  "name": "Exxen",
+  "category": "Video",
+  "color": "#F5B300",
+  "asOf": "2025-08",
+  "keywords": [
+   "acun",
+   "spor"
+  ],
+  "plans": [
+   {
+    "name": "Reklamlı",
+    "price": 149.9,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Reklamsız",
+    "price": 199.9,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Exxen Spor",
+    "price": 299.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.exxen.com/tr/profil",
+  "cancelSteps": [
+   "exxen.com > Profil > Üyelik",
+   "Üyeliği iptal et"
+  ]
+ },
+ {
+  "id": "gain",
+  "name": "Gain",
+  "category": "Video",
+  "color": "#FF3B30",
+  "asOf": "2025-08",
+  "keywords": [],
+  "plans": [
+   {
+    "name": "Aylık",
+    "price": 99.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://gain.tv/",
+  "cancelSteps": [
+   "gain.tv > Hesabım > Paketim",
+   "İptal et"
+  ]
+ },
+ {
+  "id": "tod",
+  "name": "TOD (beIN)",
+  "category": "Video",
+  "color": "#6C2BD9",
+  "asOf": "2025-08",
+  "keywords": [
+   "bein",
+   "süper lig",
+   "maç"
+  ],
+  "plans": [
+   {
+    "name": "Spor",
+    "price": 499.9,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Eğlence",
+    "price": 149.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.todtv.com.tr/",
+  "cancelSteps": [
+   "todtv.com.tr > Hesabım > Paketlerim",
+   "Yenilemeyi kapat / iptal et"
+  ]
+ },
+ {
+  "id": "digiturk",
+  "name": "Digiturk",
+  "category": "Video",
+  "color": "#1E3A8A",
+  "asOf": "2025-08",
+  "keywords": [
+   "bein",
+   "uydu",
+   "tv"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "https://www.digiturk.com.tr/",
+  "cancelSteps": [
+   "Taahhüt bitiş tarihini kontrol et",
+   "0850 200 55 55 müşteri hizmetlerini ara veya bayiye git",
+   "İptal talebi numarasını sakla"
+  ]
+ },
+ {
+  "id": "dsmart",
+  "name": "D-Smart",
+  "category": "Video",
+  "color": "#0B5ED7",
+  "asOf": "2025-08",
+  "keywords": [
+   "uydu",
+   "tv"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "https://www.dsmart.com.tr/",
+  "cancelSteps": [
+   "Taahhüt bitiş tarihini kontrol et",
+   "444 1 288 müşteri hizmetlerini ara",
+   "İptal talebi numarasını sakla"
+  ]
+ },
+ {
+  "id": "tivibu",
+  "name": "Tivibu",
+  "category": "Video",
+  "color": "#00A3E0",
+  "asOf": "2025-08",
+  "keywords": [
+   "türk telekom",
+   "tv"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "https://www.tivibu.com.tr/",
+  "cancelSteps": [
+   "Online İşlemler > Paketlerim",
+   "Ya da 444 1 444 müşteri hizmetleri"
+  ]
+ },
+ {
+  "id": "youtube",
+  "name": "YouTube Premium",
+  "category": "Video",
+  "color": "#FF0000",
+  "asOf": "2025-08",
+  "keywords": [
+   "google",
+   "müzik",
+   "music"
+  ],
+  "plans": [
+   {
+    "name": "Bireysel",
+    "price": 99.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Aile",
+    "price": 179.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Öğrenci",
+    "price": 59.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.youtube.com/paid_memberships",
+  "cancelSteps": [
+   "youtube.com/paid_memberships",
+   "Devre dışı bırak > Üyeliği iptal et"
+  ],
+  "logo": "youtube"
+ },
+ {
+  "id": "spotify",
+  "name": "Spotify",
+  "category": "Müzik",
+  "color": "#1DB954",
+  "asOf": "2025-08",
+  "keywords": [
+   "müzik",
+   "podcast"
+  ],
+  "plans": [
+   {
+    "name": "Bireysel",
+    "price": 129.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Duo",
+    "price": 169.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Aile",
+    "price": 199.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Öğrenci",
+    "price": 64.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.spotify.com/tr/account/subscription/",
+  "cancelSteps": [
+   "spotify.com/account > Abonelik",
+   "Planı değiştir > Premium'u iptal et"
+  ],
+  "logo": "spotify"
+ },
+ {
+  "id": "applemusic",
+  "name": "Apple Music",
+  "category": "Müzik",
+  "color": "#FC3C44",
+  "asOf": "2025-08",
+  "keywords": [
+   "apple",
+   "müzik"
+  ],
+  "plans": [
+   {
+    "name": "Bireysel",
+    "price": 79.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Aile",
+    "price": 129.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Öğrenci",
+    "price": 39.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://support.apple.com/tr-tr/118428",
+  "cancelSteps": [
+   "iPhone: Ayarlar > Adın > Abonelikler",
+   "Apple Music > Aboneliği iptal et"
+  ],
+  "logo": "applemusic"
+ },
+ {
+  "id": "deezer",
+  "name": "Deezer",
+  "category": "Müzik",
+  "color": "#A238FF",
+  "asOf": "2025-08",
+  "keywords": [
+   "müzik"
+  ],
+  "plans": [
+   {
+    "name": "Premium",
+    "price": 99.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.deezer.com/account/subscription",
+  "cancelSteps": [
+   "deezer.com > Hesap > Aboneliğimi yönet",
+   "İptal et"
+  ]
+ },
+ {
+  "id": "gamepass",
+  "name": "Xbox Game Pass",
+  "category": "Oyun",
+  "color": "#107C10",
+  "asOf": "2025-08",
+  "keywords": [
+   "xbox",
+   "microsoft",
+   "oyun"
+  ],
+  "plans": [
+   {
+    "name": "PC Game Pass",
+    "price": 259.0,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Ultimate",
+    "price": 479.0,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://account.microsoft.com/services",
+  "cancelSteps": [
+   "account.microsoft.com/services",
+   "Game Pass > Yönet > Yinelenen faturalandırmayı kapat"
+  ]
+ },
+ {
+  "id": "psplus",
+  "name": "PlayStation Plus",
+  "category": "Oyun",
+  "color": "#0070D1",
+  "asOf": "2025-08",
+  "keywords": [
+   "sony",
+   "ps5",
+   "playstation"
+  ],
+  "plans": [
+   {
+    "name": "Essential Aylık",
+    "price": 349.0,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Essential Yıllık",
+    "price": 2699.0,
+    "currency": "TRY",
+    "period": "yearly"
+   },
+   {
+    "name": "Extra Yıllık",
+    "price": 4399.0,
+    "currency": "TRY",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://www.playstation.com/tr-tr/support/subscriptions/",
+  "cancelSteps": [
+   "PS5: Ayarlar > Kullanıcılar ve Hesaplar > Hesap > Ödeme ve Abonelikler",
+   "Abonelikler > PlayStation Plus > Aboneliği iptal et"
+  ],
+  "logo": "playstation"
+ },
+ {
+  "id": "nintendo",
+  "name": "Nintendo Switch Online",
+  "category": "Oyun",
+  "color": "#E60012",
+  "asOf": "2025-08",
+  "keywords": [
+   "switch"
+  ],
+  "plans": [
+   {
+    "name": "Bireysel Yıllık",
+    "price": 19.99,
+    "currency": "USD",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://accounts.nintendo.com/",
+  "cancelSteps": [
+   "Switch: Nintendo eShop > Hesap > Nintendo Switch Online",
+   "Otomatik yenilemeyi kapat"
+  ]
+ },
+ {
+  "id": "chatgpt",
+  "name": "ChatGPT Plus",
+  "category": "Yazılım & AI",
+  "color": "#10A37F",
+  "asOf": "2025-08",
+  "keywords": [
+   "openai",
+   "ai",
+   "yapay zeka"
+  ],
+  "plans": [
+   {
+    "name": "Plus",
+    "price": 20.0,
+    "currency": "USD",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://chatgpt.com/#settings/Subscription",
+  "cancelSteps": [
+   "chatgpt.com > Ayarlar > Abonelik",
+   "Planımı yönet > Aboneliği iptal et"
+  ]
+ },
+ {
+  "id": "claude",
+  "name": "Claude Pro",
+  "category": "Yazılım & AI",
+  "color": "#D97757",
+  "asOf": "2025-08",
+  "keywords": [
+   "anthropic",
+   "ai",
+   "yapay zeka"
+  ],
+  "plans": [
+   {
+    "name": "Pro",
+    "price": 20.0,
+    "currency": "USD",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://claude.ai/settings/billing",
+  "cancelSteps": [
+   "claude.ai > Ayarlar > Faturalama",
+   "Aboneliği iptal et"
+  ],
+  "logo": "claude"
+ },
+ {
+  "id": "adobe",
+  "name": "Adobe Creative Cloud",
+  "category": "Yazılım & AI",
+  "color": "#FF0000",
+  "asOf": "2025-08",
+  "keywords": [
+   "photoshop",
+   "premiere",
+   "illustrator"
+  ],
+  "plans": [
+   {
+    "name": "Photoshop",
+    "price": 649.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Tüm Uygulamalar",
+    "price": 1749.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://account.adobe.com/plans",
+  "cancelSteps": [
+   "account.adobe.com > Planlar",
+   "Planı yönet > Planı iptal et",
+   "Yıllık taahhütte erken iptal ücreti olabilir"
+  ]
+ },
+ {
+  "id": "canva",
+  "name": "Canva Pro",
+  "category": "Yazılım & AI",
+  "color": "#00C4CC",
+  "asOf": "2025-08",
+  "keywords": [
+   "tasarım"
+  ],
+  "plans": [
+   {
+    "name": "Pro Aylık",
+    "price": 299.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Pro Yıllık",
+    "price": 2699.99,
+    "currency": "TRY",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://www.canva.com/settings/billing-and-teams",
+  "cancelSteps": [
+   "canva.com > Ayarlar > Faturalandırma ve planlar",
+   "Aboneliği iptal et"
+  ]
+ },
+ {
+  "id": "m365",
+  "name": "Microsoft 365",
+  "category": "Yazılım & AI",
+  "color": "#D83B01",
+  "asOf": "2025-08",
+  "keywords": [
+   "office",
+   "word",
+   "excel",
+   "onedrive"
+  ],
+  "plans": [
+   {
+    "name": "Bireysel Yıllık",
+    "price": 1599.0,
+    "currency": "TRY",
+    "period": "yearly"
+   },
+   {
+    "name": "Aile Yıllık",
+    "price": 1999.0,
+    "currency": "TRY",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://account.microsoft.com/services",
+  "cancelSteps": [
+   "account.microsoft.com/services",
+   "Microsoft 365 > Yönet > Yinelenen faturalandırmayı kapat"
+  ]
+ },
+ {
+  "id": "notion",
+  "name": "Notion Plus",
+  "category": "Yazılım & AI",
+  "color": "#000000",
+  "asOf": "2025-08",
+  "keywords": [
+   "not",
+   "notlar"
+  ],
+  "plans": [
+   {
+    "name": "Plus Aylık",
+    "price": 12.0,
+    "currency": "USD",
+    "period": "monthly"
+   },
+   {
+    "name": "Plus Yıllık",
+    "price": 120.0,
+    "currency": "USD",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://www.notion.so/",
+  "cancelSteps": [
+   "Notion > Ayarlar > Faturalandırma",
+   "Planı değiştir > Ücretsize geç"
+  ]
+ },
+ {
+  "id": "icloud",
+  "name": "iCloud+",
+  "category": "Bulut",
+  "color": "#3693F3",
+  "asOf": "2025-08",
+  "keywords": [
+   "apple",
+   "yedek",
+   "depolama"
+  ],
+  "plans": [
+   {
+    "name": "50 GB",
+    "price": 19.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "200 GB",
+    "price": 59.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "2 TB",
+    "price": 199.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://support.apple.com/tr-tr/108364",
+  "cancelSteps": [
+   "iPhone: Ayarlar > Adın > iCloud > Hesap Saklama Alanını Yönet",
+   "Planı Değiştir > Ücretsiz plana geç"
+  ],
+  "logo": "icloud"
+ },
+ {
+  "id": "googleone",
+  "name": "Google One",
+  "category": "Bulut",
+  "color": "#4285F4",
+  "asOf": "2025-08",
+  "keywords": [
+   "google",
+   "drive",
+   "gemini",
+   "depolama"
+  ],
+  "plans": [
+   {
+    "name": "100 GB",
+    "price": 29.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "2 TB",
+    "price": 149.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "AI Premium 2 TB",
+    "price": 399.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://one.google.com/settings",
+  "cancelSteps": [
+   "one.google.com > Ayarlar",
+   "Üyeliği iptal et"
+  ],
+  "logo": "google"
+ },
+ {
+  "id": "appleone",
+  "name": "Apple One",
+  "category": "Bulut",
+  "color": "#1C1C1E",
+  "asOf": "2025-08",
+  "keywords": [
+   "apple",
+   "music",
+   "arcade",
+   "icloud"
+  ],
+  "plans": [
+   {
+    "name": "Bireysel",
+    "price": 149.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Aile",
+    "price": 229.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://support.apple.com/tr-tr/118428",
+  "cancelSteps": [
+   "iPhone: Ayarlar > Adın > Abonelikler",
+   "Apple One > Aboneliği iptal et"
+  ],
+  "logo": "apple"
+ },
+ {
+  "id": "dropbox",
+  "name": "Dropbox Plus",
+  "category": "Bulut",
+  "color": "#0061FF",
+  "asOf": "2025-08",
+  "keywords": [
+   "depolama"
+  ],
+  "plans": [
+   {
+    "name": "Plus Yıllık",
+    "price": 119.88,
+    "currency": "USD",
+    "period": "yearly"
+   },
+   {
+    "name": "Plus Aylık",
+    "price": 11.99,
+    "currency": "USD",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.dropbox.com/account/plan",
+  "cancelSteps": [
+   "dropbox.com/account/plan",
+   "Planı iptal et"
+  ],
+  "logo": "dropbox"
+ },
+ {
+  "id": "turkcell",
+  "name": "Turkcell",
+  "category": "Telekom",
+  "color": "#FFC900",
+  "asOf": "2025-08",
+  "keywords": [
+   "operatör",
+   "hat",
+   "gsm",
+   "mobil"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "https://www.turkcell.com.tr/",
+  "cancelSteps": [
+   "Taahhüt bitişini Turkcell uygulamasından kontrol et",
+   "Numara taşıma için yeni operatöre başvur; eski hat otomatik kapanır",
+   "Tamamen kapatmak için 532'yi ara veya bayiye git"
+  ]
+ },
+ {
+  "id": "vodafone",
+  "name": "Vodafone",
+  "category": "Telekom",
+  "color": "#E60000",
+  "asOf": "2025-08",
+  "keywords": [
+   "operatör",
+   "hat",
+   "gsm",
+   "mobil"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "https://www.vodafone.com.tr/",
+  "cancelSteps": [
+   "Taahhüt bitişini Vodafone Yanımda'dan kontrol et",
+   "Numara taşıma veya 542'yi ara"
+  ]
+ },
+ {
+  "id": "turktelekom",
+  "name": "Türk Telekom",
+  "category": "Telekom",
+  "color": "#00A7E1",
+  "asOf": "2025-08",
+  "keywords": [
+   "operatör",
+   "hat",
+   "internet",
+   "fiber",
+   "mobil"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "https://www.turktelekom.com.tr/",
+  "cancelSteps": [
+   "Taahhüt bitişini Online İşlemler'den kontrol et",
+   "444 1 444'ü ara veya Türk Telekom mağazasına git",
+   "İptal talep numarasını sakla"
+  ]
+ },
+ {
+  "id": "internet",
+  "name": "Ev İnterneti",
+  "category": "Telekom",
+  "color": "#455A64",
+  "asOf": "2025-08",
+  "keywords": [
+   "fiber",
+   "modem",
+   "superonline",
+   "türknet",
+   "turknet",
+   "kablonet"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "",
+  "cancelSteps": [
+   "Taahhüt bitiş tarihini ve cayma bedelini öğren",
+   "Sağlayıcının müşteri hizmetlerini ara, iptal talep numarası al",
+   "Modemi iade et (iade edilmezse ücret çıkabilir)"
+  ]
+ },
+ {
+  "id": "gym",
+  "name": "Spor Salonu",
+  "category": "Spor & Sağlık",
+  "color": "#FF6F00",
+  "asOf": "2025-08",
+  "keywords": [
+   "macfit",
+   "mac fit",
+   "fitness",
+   "gym",
+   "yüzme"
+  ],
+  "customPrice": true,
+  "plans": [],
+  "cancelUrl": "",
+  "cancelSteps": [
+   "Sözleşmedeki iptal koşulunu ve süreyi oku",
+   "Yazılı (e-posta/dilekçe) iptal talebi ver, kopyasını sakla",
+   "Kartın otomatik ödeme talimatını bankadan da kapat"
+  ]
+ },
+ {
+  "id": "strava",
+  "name": "Strava",
+  "category": "Spor & Sağlık",
+  "color": "#FC4C02",
+  "asOf": "2025-08",
+  "keywords": [
+   "koşu",
+   "bisiklet"
+  ],
+  "plans": [
+   {
+    "name": "Yıllık",
+    "price": 59.99,
+    "currency": "USD",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://www.strava.com/settings/subscription",
+  "cancelSteps": [
+   "Telefondaki mağazadan (App Store / Google Play) aboneliği iptal et"
+  ]
+ },
+ {
+  "id": "hepsiburada",
+  "name": "Hepsiburada Premium",
+  "category": "Alışveriş & Yemek",
+  "color": "#FF6000",
+  "asOf": "2025-08",
+  "keywords": [
+   "kargo",
+   "alışveriş"
+  ],
+  "plans": [
+   {
+    "name": "Premium",
+    "price": 49.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.hepsiburada.com/premium",
+  "cancelSteps": [
+   "Hepsiburada uygulaması > Hesabım > Premium",
+   "Üyeliği iptal et"
+  ]
+ },
+ {
+  "id": "trendyol",
+  "name": "Trendyol Premium",
+  "category": "Alışveriş & Yemek",
+  "color": "#F27A1A",
+  "asOf": "2025-08",
+  "keywords": [
+   "kargo",
+   "alışveriş"
+  ],
+  "plans": [
+   {
+    "name": "Premium",
+    "price": 49.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.trendyol.com/",
+  "cancelSteps": [
+   "Trendyol uygulaması > Hesabım > Trendyol Premium",
+   "Üyeliği sonlandır"
+  ]
+ },
+ {
+  "id": "getir",
+  "name": "Getir Plus",
+  "category": "Alışveriş & Yemek",
+  "color": "#5D3EBC",
+  "asOf": "2025-08",
+  "keywords": [
+   "market",
+   "yemek"
+  ],
+  "plans": [
+   {
+    "name": "Plus",
+    "price": 59.99,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://getir.com/",
+  "cancelSteps": [
+   "Getir uygulaması > Profil > Getir Plus",
+   "Üyeliği iptal et"
+  ]
+ },
+ {
+  "id": "duolingo",
+  "name": "Duolingo Super",
+  "category": "Eğitim",
+  "color": "#58CC02",
+  "asOf": "2025-08",
+  "keywords": [
+   "dil",
+   "ingilizce"
+  ],
+  "plans": [
+   {
+    "name": "Super Aylık",
+    "price": 199.99,
+    "currency": "TRY",
+    "period": "monthly"
+   },
+   {
+    "name": "Super Yıllık",
+    "price": 1199.99,
+    "currency": "TRY",
+    "period": "yearly"
+   }
+  ],
+  "cancelUrl": "https://www.duolingo.com/settings/super",
+  "cancelSteps": [
+   "Telefondaki mağazadan (App Store / Google Play) aboneliği iptal et"
+  ]
+ },
+ {
+  "id": "storytel",
+  "name": "Storytel",
+  "category": "Eğitim",
+  "color": "#FF6A3D",
+  "asOf": "2025-08",
+  "keywords": [
+   "sesli kitap",
+   "kitap"
+  ],
+  "plans": [
+   {
+    "name": "Sınırsız",
+    "price": 199.9,
+    "currency": "TRY",
+    "period": "monthly"
+   }
+  ],
+  "cancelUrl": "https://www.storytel.com/tr/",
+  "cancelSteps": [
+   "storytel.com > Hesabım > Abonelik",
+   "Aboneliği iptal et"
+  ]
+ }
+]
